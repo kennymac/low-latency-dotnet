@@ -1,3 +1,30 @@
+# al-folio Site Configuration
 title: "Low-Latency .NET"
+header_title: "Low-Latency .NET"
+first_name: Kenneth
+last_name: McCormack
 description: "Technical spikes and architecture notes on low-latency .NET, C#, Native AOT, Continuous Delivery and zero-defect systems."
-theme: jekyll-theme-cayman
+url: "https://kennymac.github.io"
+baseurl: "/low-latency-dotnet"
+
+# Theme & Dark Mode Settings
+enable_dark_mode: true
+theme_mode: system # 'light', 'dark', or 'system'
+
+# Author & Social Links
+github_username: kennymac
+
+# Permalinks
+permalink: /posts/:title/
+
+# Markdown & Syntax Highlighting
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

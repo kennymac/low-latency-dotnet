@@ -1,0 +1,37 @@
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="navbar">
+    <div class="container">
+      <a class="navbar-brand fw-bold text-lowercase" href="{{ '/' | relative_url }}">
+        <span class="brand-first">{{ site.first_name }}</span> <span class="brand-last">{{ site.last_name }}</span>
+      </a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto align-items-center">
+          <li class="nav-item">
+            <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">about</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link {% if page.url contains 'posts' %}active{% endif %}" href="{{ '/#posts' | relative_url }}">posts</a>
+          </li>
+          {% if site.github_username %}
+          <li class="nav-item ms-lg-2">
+            <a class="nav-link" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer" title="GitHub">
+              <i class="fab fa-github fa-lg"></i>
+            </a>
+          </li>
+          {% endif %}
+          <li class="nav-item ms-lg-2">
+            <button class="btn btn-link nav-link theme-toggle-btn p-0" id="theme-toggle" type="button" aria-label="Toggle theme">
+              <i class="fas fa-moon" id="theme-toggle-dark-icon"></i>
+              <i class="fas fa-sun d-none" id="theme-toggle-light-icon"></i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

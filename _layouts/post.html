@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="post-container my-5">
+  <header class="post-header mb-4 border-bottom pb-3">
+    <h1 class="post-title fw-bold">{{ page.title }}</h1>
+    <div class="post-meta text-muted small mt-2">
+      <span class="me-3"><i class="far fa-calendar me-1"></i> {{ page.date | date: "%B %d, %Y" }}</span>
+      {% assign words = page.content | number_of_words %}
+      {% assign minutes = words | divided_by: 200 %}
+      {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+      <span class="me-3"><i class="far fa-clock me-1"></i> {{ minutes }} min read</span>
+      {% if page.categories %}
+      <span><i class="fas fa-tags me-1"></i> {{ page.categories | join: ", " }}</span>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer mt-5 pt-3 border-top">
+    <a href="{{ '/' | relative_url }}#posts" class="btn btn-outline-secondary btn-sm">
+      <i class="fas fa-arrow-left me-1"></i> Back to all posts
+    </a>
+  </footer>
+</article>
