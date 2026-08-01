@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 315 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.669608,0,0,0.90002,0.115454,0.193836)">
+        <rect x="-0.172" y="-0.215" width="470.392" height="269.259" style="fill:white;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-21.9995,18.2395)">
+        <rect x="125.675" y="146.229" width="8.814" height="70.333" style="fill:none;stroke:black;stroke-width:0.83px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,-16.8824,230.069)">
+        <path d="M71.456,201.065L73.106,205.335L138.841,205.137L141.049,201.301" style="fill:none;stroke:black;stroke-width:1.04px;"/>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,87.6931,20.0088)">
+        <g transform="matrix(13,0,0,13,40.825,0)">
+        </g>
+        <text x="-40.825px" y="0px" style="font-family:'Helvetica';font-size:13px;">human directs</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,86.7818,181.78)">
+        <text x="-22.401px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:13px;">Review</text>
+        <g transform="matrix(13,0,0,13,-3.24683,19.5)">
+        </g>
+        <g transform="matrix(13,0,0,13,1.08228,19.5)">
+        </g>
+        <text x="-19.865px" y="19.5px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:13px;">Reﬁne</text>
+        <g transform="matrix(13,0,0,13,21.6741,39)">
+        </g>
+        <text x="-21.674px" y="39px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:13px;">Repeat</text>
+    </g>
+    <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,309.024,230.485)">
+        <path d="M17.393,201.319L19.044,205.589L138.841,205.137L141.049,201.301" style="fill:none;stroke:black;stroke-width:1.04px;"/>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,230.536,19.4088)">
+        <g transform="matrix(13,0,0,13,145.622,0)">
+        </g>
+        <text x="-145.622px" y="0px" style="font-family:'Helvetica';font-size:13px;">Agent analyses and generates categorisation tests</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.7016,56.7731)">
+        <text x="-35.045px" y="0px" style="font-family:'Helvetica';font-size:13px;">Direct agent</text>
+        <text x="-26.733px" y="13px" style="font-family:'Helvetica';font-size:13px;">to extract</text>
+        <g transform="matrix(13,0,0,13,-5.4209,26)">
+        </g>
+        <g transform="matrix(13,0,0,13,-1.80908,26)">
+        </g>
+        <g transform="matrix(13,0,0,13,35.769,26)">
+        </g>
+        <text x="-35.769px" y="26px" style="font-family:'Helvetica';font-size:13px;">speciﬁcation</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,86.8282,209.694)">
+        <text x="-18.183px" y="0px" style="font-family:'Helvetica';font-size:13px;">W<tspan x="-6.389px 0.841px " y="0px 0px ">at</tspan>ch</text>
+        <text x="-19.862px" y="13px" style="font-family:'Helvetica';font-size:13px;">Critical</text>
+        <text x="-15.171px" y="26px" style="font-family:'Helvetica';font-size:13px;">T<tspan x="-8.671px -1.441px " y="26px 26px ">es</tspan>ts</text>
+        <g transform="matrix(13,0,0,13,10.4736,39)">
+        </g>
+        <text x="-10.474px" y="39px" style="font-family:'Helvetica';font-size:13px;">Fail</text>
+    </g>
+    <g transform="matrix(2.80972e-17,-0.458862,0.458862,2.80972e-17,109.878,199.626)">
+        <g transform="matrix(13,0,0,13,17.218,0)">
+        </g>
+        <text x="-17.218px" y="0px" style="font-family:'Helvetica';font-size:13px;">GA<tspan x="0.606px 8.547px " y="0px 0px ">TE</tspan></text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.4322,78.5876)">
+        <text x="-35.045px" y="0px" style="font-family:'Helvetica';font-size:13px;">Direct agent</text>
+        <g transform="matrix(13,0,0,13,21.3218,13)">
+        </g>
+        <text x="-21.322px" y="13px" style="font-family:'Helvetica';font-size:13px;">to code</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.4322,95.3825)">
+        <text x="-35.045px" y="0px" style="font-family:'Helvetica';font-size:13px;">Direct agent</text>
+        <text x="-26.743px" y="13px" style="font-family:'Helvetica';font-size:13px;">to extend</text>
+        <g transform="matrix(13,0,0,13,26.7395,26)">
+        </g>
+        <text x="-26.74px" y="26px" style="font-family:'Helvetica';font-size:13px;">coverage</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.639,117.264)">
+        <text x="-35.045px" y="0px" style="font-family:'Helvetica';font-size:13px;">Direct agent</text>
+        <g transform="matrix(13,0,0,13,35.7722,13)">
+        </g>
+        <text x="-35.772px" y="13px" style="font-family:'Helvetica';font-size:13px;">to document</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.6537,41.3054)">
+        <text x="-33.487px" y="0px" style="font-family:'Helvetica';font-size:13px;">W<tspan x="-21.446px -17.116px " y="0px 0px ">ri</tspan>te <tspan x="-0.486px 8.185px " y="0px 0px ">Ag</tspan>ent</text>
+        <g transform="matrix(13,0,0,13,-4.33545,13)">
+        </g>
+        <g transform="matrix(13,0,0,13,-0.723633,13)">
+        </g>
+        <g transform="matrix(13,0,0,13,36.8545,13)">
+        </g>
+        <text x="-36.854px" y="13px" style="font-family:'Helvetica';font-size:13px;">Speciﬁcation</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.6055,146.074)">
+        <text x="-22.039px" y="0px" style="font-family:'Helvetica';font-size:13px;">Provide</text>
+        <text x="-26.733px" y="13px" style="font-family:'Helvetica';font-size:13px;">exemplar</text>
+        <g transform="matrix(13,0,0,13,44.0781,26)">
+        </g>
+        <text x="-44.078px" y="26px" style="font-family:'Helvetica';font-size:13px;">implementation</text>
+    </g>
+    <g transform="matrix(0.458862,0,0,0.458862,89.7366,134.385)">
+        <g transform="matrix(13,0,0,13,32.7571,0)">
+        </g>
+        <text x="-32.757px" y="0px" style="font-family:'Helvetica';font-size:13px;">W<tspan x="-20.716px -16.386px " y="0px 0px ">ri</tspan>te code!</text>
+    </g>
+    <g transform="matrix(0.352915,-0.000280216,-0.000280216,0.458861,61.1327,19.7913)">
+        <path d="M156.991,134.088L221.246,134.258" style="fill:none;"/>
+        <g transform="matrix(2.83355,0.00173039,0.00173039,2.17931,-173.257,-43.2371)">
+            <path d="M134.682,79.073L139.176,81.335L134.67,83.573C135.798,82.451 135.804,80.201 134.682,79.073Z"/>
+            <path d="M116.499,81.275C116.499,81.275 129.18,81.309 135.576,81.326" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-9.68923,-10.408)">
+        <g transform="matrix(1,-0,-0,1,9.68923,10.408)">
+            <path d="M124.334,201.766L119.306,199.323L124.278,196.766C123.042,198.031 123.07,200.53 124.334,201.766Z"/>
+            <path d="M247.2,139.443C247.2,139.443 250.504,168.703 228.339,183.867C209.019,197.084 140.61,199.003 123.306,199.278" style="fill:none;stroke:black;stroke-width:1.67px;"/>
+        </g>
+    </g>
+    <g transform="matrix(-1,0,0,1,211.726,-48.7179)">
+        <g transform="matrix(-1,0,0,1,211.726,48.7179)">
+            <path d="M50.745,83.4L55.804,81.021L50.866,78.402C52.085,79.681 52.025,82.181 50.745,83.4Z"/>
+            <path d="M51.805,80.925C42.419,81.519 19.723,88.062 19.15,137.375C18.423,200.011 68.316,199.489 68.316,199.489" style="fill:none;stroke:black;stroke-width:1.67px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-25.965,-36.9912)">
+        <g transform="matrix(0.347838,0,0,0.347838,189.922,118.619)">
+            <g transform="matrix(13,0,0,13,23.1245,0)">
+            </g>
+            <text x="-23.125px" y="0px" style="font-family:'Helvetica';font-size:13px;">Analyse</text>
+        </g>
+        <g transform="matrix(0.267525,-0.000212417,-0.000212417,0.347837,164.597,70.997)">
+            <path d="M156.991,134.088L221.246,134.258" style="fill:none;"/>
+            <g transform="matrix(3.73797,0.00228269,0.00228269,2.87491,-518.281,-98.0802)">
+                <path d="M193.299,78.397L197.793,80.659L193.287,82.897C194.415,81.775 194.421,79.525 193.299,78.397Z"/>
+                <path d="M180.603,80.613C180.603,80.613 189.153,80.636 194.193,80.649" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.347838,0,0,0.347838,235.647,117.219)">
+            <text x="-27.815px" y="0px" style="font-family:'Helvetica';font-size:13px;">Construct</text>
+            <g transform="matrix(13,0,0,13,26.0127,13)">
+            </g>
+            <text x="-26.013px" y="13px" style="font-family:'Helvetica';font-size:13px;">test suite</text>
+        </g>
+        <g transform="matrix(0.347838,0,0,0.347838,311.6,116.067)">
+            <text x="-28.177px" y="0px" style="font-family:'Helvetica';font-size:13px;">Make test</text>
+            <text x="-29.266px" y="13px" style="font-family:'Helvetica';font-size:13px;">suite pass</text>
+        </g>
+        <g transform="matrix(0.347838,0,0,0.347838,274.093,152.664)">
+            <g transform="matrix(13,0,0,13,19.1445,0)">
+            </g>
+            <text x="-19.145px" y="0px" style="font-family:'Helvetica';font-size:13px;">Modify</text>
+        </g>
+        <g transform="matrix(0.347838,0,0,0.347838,146.8,70.95)">
+            <g transform="matrix(2.8749,-0,-0,2.8749,-347.389,-97.6282)">
+                <path d="M266.155,114.947L261.196,114.102L264.848,110.642C264.098,112.045 264.752,114.198 266.155,114.947Z"/>
+                <path d="M285.553,88.941C285.553,88.941 284.049,99.053 277.276,105.232C272.501,109.588 267.73,111.898 264.64,113.056" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(-0.347838,0,0,0.347838,399.249,70.6906)">
+            <g transform="matrix(-2.8749,0,0,2.8749,1073.16,-96.8825)">
+                <path d="M211.29,92.912L208.567,88.682L206.817,93.399C207.813,92.159 210.05,91.915 211.29,92.912Z"/>
+                <path d="M208.956,92.261C209.594,94.786 211.154,98.589 214.888,103.483C221.495,112.141 232.924,113.843 232.924,113.843" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.347838,0,0,0.347838,146.8,70.95)">
+            <g transform="matrix(2.8749,-0,-0,2.8749,-347.389,-97.6282)">
+                <path d="M284.051,66.528L284.278,71.554L280.121,68.719C281.651,69.154 283.617,68.058 284.051,66.528Z"/>
+                <path d="M212.748,68.731C212.748,68.731 219.503,59.066 250.072,58.885C271.306,58.76 279.468,64.617 282.524,68.409" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.32381,0,0,0.26534,159.124,81.9176)">
+            <g transform="matrix(3.08823,-0,-0,3.76875,-411.227,-169.317)">
+                <path d="M161.393,90.556L164.307,86.454L165.84,91.246C164.901,89.962 162.677,89.617 161.393,90.556Z"/>
+                <path d="M298.603,78.101C298.603,78.101 321.314,129.674 229.512,129.742C166.023,129.788 162.89,100.372 163.755,90.012" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
